@@ -2,6 +2,8 @@
 
 This project focuses on fine-tuning a YOLO object detection model to identify wildfires and smoke, and deploying it on an NVIDIA Jetson Nano.
 
+<img width="1004" height="456" alt="Screenshot 2026-04-03 at 4 13 14 AM" src="https://github.com/user-attachments/assets/038be4b5-3a3c-492a-ad6a-3ad8f51383b1" />
+
 demo vedio：
 https://github.com/user-attachments/assets/8201dfa7-0100-4763-8b89-b67dadb7bea9
 
