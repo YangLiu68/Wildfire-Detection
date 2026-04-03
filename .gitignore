@@ -1,0 +1,15 @@
+# Ignore Mac OS system files
+.DS_Store
+
+# Ignore datasets and heavy model weight folders
+dataset/
+weights/
+*.docx
+
+# Python virtual environment and cache
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/

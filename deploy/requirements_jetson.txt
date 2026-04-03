@@ -1,0 +1,8 @@
+# IMPORTANT: For Jetson Nano, do NOT directly pip install torch, torchvision, or opencv-python via PyPI.
+# Doing so will install CPU-only versions and remove CUDA acceleration.
+# Ensure you install PyTorch wheels explicitly provided by NVIDIA for JetPack, 
+# and use the pre-compiled OpenCV on Jetson Nano.
+
+ultralytics
+numpy
+requests
