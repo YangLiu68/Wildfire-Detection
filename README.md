@@ -1,6 +1,7 @@
 # Wildfire Detection Using YOLO on Jetson Nano
 
 This project focuses on fine-tuning a YOLO object detection model to identify wildfires and smoke, and deploying it on an NVIDIA Jetson Nano.
+https://github.com/user-attachments/assets/8201dfa7-0100-4763-8b89-b67dadb7bea9
 
 ## Project Structure
 - `dataset/`: A privately annotated custom dataset used for training the wildfire detection model (Not included in this repository due to size constraints).
